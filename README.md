@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`npx create-react-app react-demo --template typescript`
+We use `react-app-rewired` to overwrite webpack config.
+
 
 ## Available Scripts
 
