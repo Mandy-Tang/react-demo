@@ -1,0 +1,4 @@
+{
+  "**/*.ts?(x)": ["eslint --fix", "prettier --write"],
+  "**/*.less": ["stylelint --fix", "prettier --write"]
+}
